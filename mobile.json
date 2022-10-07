@@ -1,0 +1,37 @@
+[
+    {
+        "category_id":1,
+        "product_id":1,
+        "brand_name":"Infinix",
+        "product_name":"infinix smart 5A",
+        "product_img":"",
+        "storage":"2GB|32GB",
+        "desc":"5000mah | 6.54 Hd+",
+        "price":7199
+     
+    },
+[
+    {
+        "category_id":1,
+        "product_id":2,
+        "brand_name":"Infinix",
+        "product_name":"infinix 34a",
+        "product_img":"",
+        "storage":"2GB|32GB",
+        "desc":"4000mah | 6.54 Hd+",
+        "price":4199
+     
+    },
+[
+    {
+        "category_id":1,
+        "product_id":2,
+        "brand_name":"Infinix",
+        "product_name":"infinix smart 5A",
+        "product_img":"",
+        "storage":"2GB|22GB",
+        "desc":"8000mah | 6.54 Hd+",
+        "price":11199
+     
+    }
+]
